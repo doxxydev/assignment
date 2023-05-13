@@ -11,6 +11,7 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+![image](https://github.com/doxxydev/assignment/assets/133533842/1c5f6c5c-c887-424b-a693-71fd17df7cb7)
 
 1. 
 - NodeJS installed.
